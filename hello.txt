@@ -14,3 +14,4 @@ github 20220731
 --amend 1111111111
 asaaaaa
 2222222222
+git diff
